@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# Weecho
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+本仓库是「Weecho」的安卓版本获取入口，附使用资料索引。
 
-## Available Scripts
+## 安装文件资源（夸克网盘）
 
-In the project directory, you can run:
+> **Weecho 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/cf893784a87d](https://pan.quark.cn/s/cf893784a87d)
 
-### `yarn start`
+## 官方项目
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- 上游项目：[Aissaoui-Ahmed/weecho](https://github.com/Aissaoui-Ahmed/weecho)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 更多资料
 
-### `yarn test`
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Weecho/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [fanclub会籍与会员权益](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Weecho/fanclub%E4%BC%9A%E7%B1%8D%E4%B8%8E%E4%BC%9A%E5%91%98%E6%9D%83%E7%9B%8A.md)
+- [日常操作与社区互动](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Weecho/%E6%97%A5%E5%B8%B8%E6%93%8D%E4%BD%9C%E4%B8%8E%E7%A4%BE%E5%8C%BA%E4%BA%92%E5%8A%A8.md)
+- [注册登录与账号管理](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Weecho/%E6%B3%A8%E5%86%8C%E7%99%BB%E5%BD%95%E4%B8%8E%E8%B4%A6%E5%8F%B7%E7%AE%A1%E7%90%86.md)
+- [演出优先购怎么参与](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Weecho/%E6%BC%94%E5%87%BA%E4%BC%98%E5%85%88%E8%B4%AD%E6%80%8E%E4%B9%88%E5%8F%82%E4%B8%8E.md)
+- [订单退款与售后说明](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Weecho/%E8%AE%A2%E5%8D%95%E9%80%80%E6%AC%BE%E4%B8%8E%E5%94%AE%E5%90%8E%E8%AF%B4%E6%98%8E.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/Aissaoui-Ahmed/weecho)。
